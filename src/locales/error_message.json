@@ -1,0 +1,82 @@
+{
+    "error_messages": {
+        "auth_401": {
+            "en": "The current password is wrong!",
+            "ru": "Текущий пароль неверный!",
+            "uz": "Joriy parol noto'g'ri!",
+            "kr": "Жорий парол нотўғри!"
+        },
+        "auth_401.1": {
+            "en": "This account has been blocked!",
+            "ru": "Этот аккаунт заблокирован!",
+            "uz": "Bu hisob bloklangan!",
+            "kr": "Бу ҳисоб блокланган!"
+        },
+        "auth_401.2": {
+            "en": "Login or password is incorrect!",
+            "ru": "Логин или пароль неверный!",
+            "uz": "Login yoki parol noto'g'ri!",
+            "kr": "Логин ёки парол нотўғри!"
+        },
+        "old_password_401": {
+            "en": "The current password is required!",
+            "ru": "Требуется текущий пароль!",
+            "uz": "Joriy parol kiritilishi kerak!",
+            "kr": "Жорий парол киритилиши керак!"
+        },
+        "otp_404": {
+            "en": "Invalid code!",
+            "ru": "Неверный код!",
+            "uz": "Yaroqsiz kod!",
+            "kr": "Яроқсиз код!"
+        },
+        "exist_401": {
+            "en": "This barcode already exists!",
+            "ru": "Этот штрих-код уже существует!",
+            "uz": "Bu barkod allaqachon mavjud!",
+            "kr": "Bu barkod allaqachon mavjud!"
+        },
+        "auth_403": {
+            "en": "You are not authorized for this feature!",
+            "ru": "Вы не авторизованы для этой функции!",
+            "uz": "Bu funksiya uchun sizga ruxsat berilmagan!",
+            "kr": "Бу функсия учун сизга рухсат берилмаган!"
+        },
+        "auth_403.2": {
+            "en": "This user already exists!",
+            "ru": "Это пользователь уже существует!",
+            "uz": "Bu foydalanuvchi allaqachon mavjud!",
+            "kr": "Бу фойдаланувчи аллақачон мавжуд!"
+        },
+        "auth_403.3": {
+            "en": "Email or phone number is required!",
+            "ru": "Электронная почта или номер телефона обязательны!",
+            "uz": "Elektron pochta yoki telefon raqami kerak!",
+            "kr": "Електрон почта ёки телефон рақами керак!"
+        },
+        "admin_404": {
+            "en": "No such admin found!",
+            "ru": "Такой админ не найден!",
+            "uz": "Bunday admin topilmadi!",
+            "kr": "Бундай админ топилмади!"
+        },
+        "category_404": {
+            "en": "No such category found!",
+            "ru": "Такой категория не найден!",
+            "uz": "Bunday bo'lim topilmadi!",
+            "kr": "Бундай бўлим топилмади!"
+        },
+        "product_404": {
+            "en": "No such product found!",
+            "ru": "Такой продукт не найден!",
+            "uz": "Bunday mahsulot topilmadi!",
+            "kr": "Бундай маҳсулот топилмади!"
+        },
+        "brand_404": {
+            "en": "No such brand found!",
+            "ru": "Такой бренд не найден!",
+            "uz": "Bunday brend topilmadi!",
+            "kr": "Бундай бренд топилмади!"
+        }
+    }
+}

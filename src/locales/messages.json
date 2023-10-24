@@ -1,0 +1,112 @@
+{
+    "messages": {
+        "something_went_wrong!": {
+            "en": "Something went wrong!",
+            "ru": "Что-то пошло не так!",
+            "uz": "Nimadir noto'g'ri bajarildi!",
+            "kr": "Нимадир нотўғри бажарилди!"
+        },
+        "get_200": {
+            "en": "Data extracted successfully!",
+            "ru": "Данные извлечены успешно!",
+            "uz": "Ma'lumotlar muvaffaqiyatli chiqarildi!",
+            "kr": "Маълумотлар муваффақиятли чиқарилди!"
+        },
+        "sending_verification_code": {
+            "en": "Code was sent!",
+            "ru": "Koд был отправлен!",
+            "uz": "Kod yuborildi!",
+            "kr": "Код юборилди!"
+        },
+        "otp_200": {
+            "en": "Successfully!",
+            "ru": "Успешно!",
+            "uz": "Muvaffaqiyatli!",
+            "kr": "Муваффақиятли!"
+        },
+        "password_changed_200": {
+            "en": "Password updated successfully!",
+            "ru": "Пароль телефона успешно обновлен!",
+            "uz": "Parol muvaffaqiyatli yangilandi!",
+            "kr": "Парол муваффақиятли янгиланди!"
+        },
+        "admin_created_200": {
+            "en": "Admin successfully created!",
+            "ru": "Админ успешно создан!",
+            "uz": "Admin muvaffaqiyatli yaratildi!",
+            "kr": "Aдмин муваффақиятли яратилди!"
+        },
+        "category_created_200": {
+            "en": "Category successfully created!",
+            "ru": "Категория успешно создан!",
+            "uz": "Bo'lim muvaffaqiyatli yaratildi!",
+            "kr": "Бўлим муваффақиятли яратилди!"
+        },
+        "product_created_200": {
+            "en": "Product successfully created!",
+            "ru": "Продукт успешно создан!",
+            "uz": "Mahsulot muvaffaqiyatli yaratildi!",
+            "kr": "Маҳсулот муваффақиятли яратилди!"
+        },
+        "brand_created_200": {
+            "en": "Brand successfully created!",
+            "ru": "Бренд успешно создан!",
+            "uz": "Brend muvaffaqiyatli yaratildi!",
+            "kr": "Бренд муваффақиятли яратилди!"
+        },
+        "admin_updated_200": {
+            "en": "Admin successfully updated!",
+            "ru": "Админ успешно обновлен!",
+            "uz": "Admin muvaffaqiyatli yangilandi!",
+            "kr": "Aдмин муваффақиятли янгиланди!"
+        },
+        "category_updated_200": {
+            "en": "Category successfully updated!",
+            "ru": "Категория успешно обновлен!",
+            "uz": "Bo'lim muvaffaqiyatli yangilandi!",
+            "kr": "Бўлим муваффақиятли янгиланди!"
+        },
+        "product_updated_200": {
+            "en": "Product successfully updated!",
+            "ru": "Продукт успешно обновлен!",
+            "uz": "Mahsulot muvaffaqiyatli yangilandi!",
+            "kr": "Маҳсулот муваффақиятли янгиланди!"
+        },
+        "brand": {
+            "en": "Brand successfully updated!",
+            "ru": "Бренд успешно обновлен!",
+            "uz": "Brend muvaffaqiyatli yangilandi!",
+            "kr": "Бренд муваффақиятли янгиланди!"
+        },
+        "admin_deleted_200": {
+            "en": "Admin successfully deleted!",
+            "ru": "Админ успешно удален!",
+            "uz": "Admin muvaffaqiyatli o'chirildi!",
+            "kr": "Aдмин муваффақиятли ўчирилди!"
+        },
+        "category_deleted_200": {
+            "en": "Category successfully deleted!",
+            "ru": "Категория успешно удален!",
+            "uz": "Bo'lim muvaffaqiyatli o'chirildi!",
+            "kr": "Бўлим муваффақиятли ўчирилди!"
+        },
+        "product_deleted_200": {
+            "en": "Product successfully deleted!",
+            "ru": "Продукт успешно удален!",
+            "uz": "Mahsulot muvaffaqiyatli o'chirildi!",
+            "kr": "Маҳсулот муваффақиятли ўчирилди!"
+        },
+        "brand_deleted_200": {
+            "en": "Brand successfully deleted!",
+            "ru": "Бренд успешно удален!",
+            "uz": "Brend muvaffaqiyatli o'chirildi!",
+            "kr": "Бренд муваффақиятли ўчирилди!"
+        },
+        "admin_logged_200": {
+            "en": "Admin successfully logged!",
+            "ru": "Админ успешно авторизовался!",
+            "uz": "Admin tizimga muvaffaqiyatli kirdi!",
+            "kr": "Aдмин тизимга муваффақиятли кирди!"
+        }
+    }
+}

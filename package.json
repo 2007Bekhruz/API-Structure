@@ -1,0 +1,41 @@
+{
+  "name": "melek-backend",
+  "version": "1.0.0",
+  "description": "Crated by Mokhirbek Iskandarov",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "stop:server": "pm2 stop melek-backend",
+    "start:server": "pm2 start melek-backend",
+    "watch": "tsc --watch",
+    "dev": "tsc-watch --onSuccess \"node dist/index.js\""
+  },
+  "keywords": [],
+  "author": "Mokhirbek Iskandarov",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-winston": "^4.2.0",
+    "joi": "^17.9.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.9",
+    "multer": "^1.4.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/cors": "^2.8.13",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.17",
+    "@types/jsonwebtoken": "^9.0.1",
+    "@types/mongoose": "^5.11.97",
+    "@types/multer": "^1.4.7",
+    "@types/uuid": "^9.0.1",
+    "tsc-watch": "^6.0.0",
+    "winston": "^3.8.2"
+  }
+}
